@@ -3,8 +3,6 @@
 
 
 
-
-
 ### Hi there 👋
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
@@ -14,11 +12,9 @@
 <br/>
 
 
-- 🍻  
-
 - ⚡  Javascript
 
-- ✍️  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2WeirDo)](https://github.com/2WeirDo/github-readme-stats)
 
   
 
