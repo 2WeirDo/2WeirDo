@@ -1,9 +1,7 @@
-# 2WeirDo
 
-# 🐱 Hi there! I'm weirdo
+# 🐱 Hi ! I'm weirdo
 
 > The past stops here, the future begins here
-
 
 
 ## Activity：
