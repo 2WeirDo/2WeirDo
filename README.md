@@ -16,5 +16,8 @@
 
 > 个人总结的前端知识笔记 --- 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2WeirDo&repo=notebook)](https://github.com/anuraghazra/github-readme-stats)
+[notebook](https://github.com/2WeirDo/notebook)
+
+> 个人博客
+[here](https://2weirdo.github.io/blogs/)
 
