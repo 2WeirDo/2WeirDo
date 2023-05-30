@@ -14,10 +14,7 @@
 
 
 
-> 个人总结的前端知识笔记 --- 
+> 个人总结的前端知识笔记 -------  [notebook](https://github.com/2WeirDo/notebook)
 
-[notebook](https://github.com/2WeirDo/notebook)
-
-> 个人博客
-[here](https://2weirdo.github.io/blogs/)
+> 个人博客 ----  [here](https://2weirdo.github.io/blogs/)
 
