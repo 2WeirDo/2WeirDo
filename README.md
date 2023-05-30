@@ -15,6 +15,7 @@
 
 
 > 个人总结的前端知识笔记 -------  [my notebook📕](https://github.com/2WeirDo/notebook) 
-
+> 十万字语雀知识库 ------ 目前还在完善中🤭
 > 个人博客 ----  [my blogs😎](https://2weirdo.github.io/blogs/)
+
 
