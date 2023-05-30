@@ -1,7 +1,7 @@
 
 # 🐱 Hi ! I'm weirdo
 
-> The past stops here, the future begins here
+> 一个精通各种技术名称拼写的前端er
 
 
 ## Activity：
@@ -14,7 +14,7 @@
 
 
 
-> 个人总结的前端知识笔记 -------  [notebook](https://github.com/2WeirDo/notebook)
+> 个人总结的前端知识笔记 -------  [my notebook📕](https://github.com/2WeirDo/notebook) 
 
-> 个人博客 ----  [here](https://2weirdo.github.io/blogs/)
+> 个人博客 ----  [my blogs😎](https://2weirdo.github.io/blogs/)
 
