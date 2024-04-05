@@ -9,6 +9,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2WeirDo&show_icons=true&theme=nightowl)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2WeirDo&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=2WeirDo&theme=highcontrast
 
 <br/>
 
