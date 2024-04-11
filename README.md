@@ -15,7 +15,9 @@
 
 
 > 推荐项目
+> <br/>
 > ---- [weirdo-terminal](https://www.weirdo-terminal.com/)  ----  [repo](https://github.com/2WeirDo/weirdo_terminal)
+> <br/>
 > ---- [weirdo-ui](https://2weirdo.github.io/weirdo-ui/)  ---- [repo](https://github.com/2WeirDo/weirdo-ui)
 <br/>
 
