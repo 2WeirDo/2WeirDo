@@ -11,6 +11,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2WeirDo&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 [![2WeirDo's GitHub | Topics Over Time](https://stats.quine.sh/2WeirDo/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=2WeirDo)
+[![2WeirDo's GitHub | Languages Over Time](https://stats.quine.sh/2WeirDo/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=2WeirDo)
+[![2WeirDo's GitHub | Stats](https://stats.quine.sh/2WeirDo/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=2WeirDo)
+[![2WeirDo's GitHub | Stats](https://stats.quine.sh/2WeirDo/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=2WeirDo)
 
 <br/>
 
